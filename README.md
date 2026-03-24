@@ -34,10 +34,10 @@
 
 <h3><i>Links:</i></h3>
 <div align="">
-<a href="https://www.linkedin.com/in/prince-neres" target="_blank">
+<a href="https://www.linkedin.com/in/princeneres" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:prince.neres@gmail.com" target="_blank">
+<a href="mailto:princeneres@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://princeneres.dev" target="_blank">
