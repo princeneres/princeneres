@@ -3,16 +3,24 @@
     Hello! I'm Prince
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
   </h3>
-  
+  <!-- 
   <img align="right"
    src="https://media.tenor.com/ko4tpRh2FTcAAAAj/mr-free-super-tux.gif"
-  />
+  />-->
 </div>
 
 <div>
-ㅤㅤI am a software developer with experience in technologies such as <i><b>JavaScript</b></i>, <i><b>Python</b></i>, <i><b>Java</b></i>, and <i><b>Liferay</b></i>. I have contributed to several successful projects and continuously strive to enhance my skills and technical knowledge to deliver optimal solutions.
-</div>
+I'm a Software Engineer with experience building scalable and reliable applications across different technologies, including JavaScript, Java, Python, and Liferay.
 
+Since 2021, I’ve been working on the development and maintenance of systems, consistently delivering high-quality solutions in both national and international projects.
+
+Currently, I specialize in building enterprise portals using Liferay, where I design and develop robust, scalable architectures. As a certified Liferay Backend Developer (7.4), I apply best practices and agile methodologies to deliver efficient and maintainable solutions.
+
+I’m passionate about continuous learning and sharing knowledge.
+
+Driven by problem-solving and performance, I enjoy working in dynamic environments and contributing to impactful digital products.
+</div>
+<!-- 
 <h3 align=""><i>Skills:</i></h3>
 <div align="">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -43,4 +51,4 @@
 <a href="https://princeneres.dev" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
-</div>
+</div> -->
