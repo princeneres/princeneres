@@ -10,14 +10,14 @@
 </div>
 
 <div>
-I'm a Software Engineer with experience building scalable and reliable applications across different technologies, including JavaScript, Java, Python, and Liferay.
-
+I'm a Software Engineer with experience building scalable and reliable applications across different technologies, including JavaScript, Java, Python, and Liferay. 
+<br><br>
 Since 2021, I’ve been working on the development and maintenance of systems, consistently delivering high-quality solutions in both national and international projects.
-
+<br><br>
 Currently, I specialize in building enterprise portals using Liferay, where I design and develop robust, scalable architectures. As a certified Liferay Backend Developer (7.4), I apply best practices and agile methodologies to deliver efficient and maintainable solutions.
-
+<br><br>
 I’m passionate about continuous learning and sharing knowledge.
-
+<br><br>
 Driven by problem-solving and performance, I enjoy working in dynamic environments and contributing to impactful digital products.
 </div>
 <!-- 
